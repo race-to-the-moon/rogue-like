@@ -1,0 +1,49 @@
+body{
+  
+  background-color: #141414
+}
+	
+.phaserContainer{
+	text-align: center;
+  width: 100%;
+}
+.phaserContainer canvas{
+
+  display: inline !important;
+}
+
+.panel{
+
+  margin: 0;
+	color: white;
+	background: black;
+	text-align: center;
+}
+.panel	.legend{
+
+  text-align: center
+}
+	span{
+
+    margin: 0 5px 0 5px
+  }
+		.white{
+
+      color: white
+    }
+		.green{
+
+      color: green
+    }
+		.gold{
+
+      color: gold
+    }
+		.red{
+
+      color: red
+    }
+		.purple{
+
+      color: purple
+    }
